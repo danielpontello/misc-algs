@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+
+    int n = 1;
+    int x = 1;
+    
+    cout << "Serie de Fibonacci\n";
+    
+    while(n <= 6765) // 6765 é o 20º numero
+    {
+     cout << n << "\n" << x << "\n"; 
+     
+     n = n + x;
+     x = n + x;
+     
+           
+    }
+
+    cin.get();
+    cin.ignore();
+}

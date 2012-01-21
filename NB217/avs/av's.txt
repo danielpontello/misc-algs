@@ -1,0 +1,14 @@
+1- Elabore um programa que tenha como entrada do nome de uma cidade e dois valores X e Y
+que correspondem as coordenadas dessa cidade. E tenha como saída o nome da cidade e se
+ela está localizada dentro ou fora da área representada abaixo
+
+y (0,1) (0,-1)
+x (-1,0) (1,0)
+
+
+3- Elabore um programa que tenha como entrada o nome e a idade de duas pessoas, e tenha a
+seguinte saída:
+- Nome das pessoas que nasceram entre os anos 1980 e 2010
+- Nome e ano de nascimento das duas pessoas em ordem decrescente de idade
+(do mais velho ao mais novo)
+
